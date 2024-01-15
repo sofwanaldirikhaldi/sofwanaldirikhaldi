@@ -7,10 +7,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <!--
-  <a href="https://www.youtube.com/channel/UCUicT5osQLEL11TimsC8I1g">
+  <a href="https://www.youtube.com/channel/aaaaaaaaaaaaaa">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/ashishps_1">
+  <a href="https://twitter.com/sofwanaldirikhaldi">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   -->
