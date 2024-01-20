@@ -1,5 +1,5 @@
 <h1 align="center">Hi, my name is Sofwan</h1>
-<h3 align="center">I work as a software developer with 5th years of experience</h3>
+<h3 align="center">I work as a Software Developer with 5th years of experience</h3>
 
 <h3 align="left">Connect with me:</h3>
 <div id="badges">
