@@ -4,9 +4,9 @@
 <h3>I have experience working in Full Stack Development, Backend</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coding" width="400">
 
-- 🌱 I’m currently learning **React, Express.js, MongoDB, Node.js**
+- 🌱 I’m currently learning **Data Structures & Algorithms**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **Software Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
