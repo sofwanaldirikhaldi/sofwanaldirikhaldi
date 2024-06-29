@@ -4,7 +4,7 @@
 <h3>I have experience working in Full Stack Development, Backend</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coding" width="400">
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**
+- 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **Software Engineering**
 
@@ -25,7 +25,7 @@
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240623%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240623T093716Z&X-Amz-Expires=300&X-Amz-Signature=b68422a6916d58c10418041fcde06947270c22a7f0fcdfea013852b5ccddb466&X-Amz-SignedHeaders=host&actor_id=156644449&key_id=0&repo_id=588181932" alt="expressjs" width="40" height="40"/></a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/376332/laravel.svg" alt="laravel" width="40" height="40"/></a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240623%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240623T093850Z&X-Amz-Expires=300&X-Amz-Signature=043253bd771d0ec9748568db6f86afd2820cf5920e32a11a93418e83030b5527&X-Amz-SignedHeaders=host&actor_id=156644449&key_id=0&repo_id=588181932" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240629%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240629T090459Z&X-Amz-Expires=300&X-Amz-Signature=579749107545233fa85e0c0afa7e60b90416f7b76443d76c94bce6f2e1df2e43&X-Amz-SignedHeaders=host&actor_id=156644449&key_id=0&repo_id=588181932" alt="mongodb" width="40" height="40"/></a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" alt="nodejs" width="40" height="40"/></a>
 </p>
