@@ -2,12 +2,6 @@
 <h1>Hi there! 👋 I'm Sofwan</h1>
 <h3>I'm a Software Engineer with over 6 years of experience</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coding" width="400">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sofwanaldirikhaldi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sofwanaldirikhaldi" height="30"   width="40" /></a>
-<a href="https://www.leetcode.com/sofwanaldirikhaldi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sofwanaldirikhaldi" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sofwanaldirikhaldi&show_icons=true&locale=en&layout=compact" alt="sofwanaldirikhaldi" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sofwanaldirikhaldi&show_icons=true&locale=en" alt="sofwanaldirikhaldi" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sofwanaldirikhaldi&" alt="sofwanaldirikhaldi" /></p>
