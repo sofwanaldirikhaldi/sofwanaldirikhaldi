@@ -14,4 +14,4 @@ I'm a Software Engineer with over 6 years of experience
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sofwanaldirikhaldi&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sofwanaldirikhaldi)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sofwanaldirikhaldi&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
