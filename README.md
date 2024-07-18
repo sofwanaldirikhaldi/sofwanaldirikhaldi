@@ -9,3 +9,9 @@ I'm a Software Engineer with over 6 years of experience
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sofwanaldirikhaldi&show_icons=true&hide_border=true&theme=shadow_red" alt="sofwanaldirikhaldi"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofwanaldirikhaldi&layout=compact&hide_border=true&theme=shadow_red" alt="sofwanaldirikhaldi"/></a> |
 | ------------- | ------------- |
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sofwanaldirikhaldi)](https://git.io/streak-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sofwanaldirikhaldi&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sofwanaldirikhaldi)](https://github.com/ryo-ma/github-profile-trophy)
