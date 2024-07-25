@@ -5,7 +5,7 @@ Hi there! 👋 I'm Sofwan
 I'm a Software Engineer with over 6 years of experience
 
 **Languages:** C / C++, Java, Python, C#, JavaScript / TypeScript, Go, PHP, SQL\
-**Technologies:** HTML, CSS, Bootstrap, JQuery, DataTables, Moment.js, Telerik, Node.js, Laravel, .NET, SQL Server, Github, Bitbucket, Azure DevOps Server, Power Platform
+**Technologies:** HTML, CSS, React, Bootstrap, JQuery, DataTables, Moment.js, Telerik, Node.js, Laravel, .NET, SQL Server, Github, Bitbucket, Azure DevOps Server, Power Platform
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sofwanaldirikhaldi&show_icons=true&hide_border=true&theme=default" alt="sofwanaldirikhaldi"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofwanaldirikhaldi&layout=compact&hide_border=true&theme=default" alt="sofwanaldirikhaldi"/></a> |
 | ------------- | ------------- |
