@@ -2,7 +2,7 @@
 
 Hi there! 👋 I'm Sofwan
 
-I'm a Software Engineer with over 6 years of experience
+I'm a Full Stack Developer with over 6 years of experience
 
 **Languages:** C#, JavaScript / TypeScript, PHP, Java, Python, Go, C / C++, SQL\
 **Technologies:** React, Angular, Bootstrap, JQuery, DataTables, Moment.js, Telerik, .NET / .NET Core, Laravel, Node.js, SQL Server, Power Platform
