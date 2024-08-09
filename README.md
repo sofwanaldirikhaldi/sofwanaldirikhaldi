@@ -5,7 +5,7 @@ Hi there! 👋 I'm Sofwan
 I'm a Full Stack Developer with over 6 years of experience
 
 **Languages:** C#, JavaScript / TypeScript, PHP, Java, Python, Go, C / C++, SQL\
-**Technologies:** React, Angular, Bootstrap, JQuery, DataTables, Moment.js, Telerik, .NET / .NET Core, Laravel, Node.js, SQL Server, Power Platform
+**Technologies:** React, Angular, .NET / .NET Core, Laravel, SQL Server, Power Platform
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sofwanaldirikhaldi&show_icons=true&hide_border=true&theme=default" alt="sofwanaldirikhaldi"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofwanaldirikhaldi&layout=compact&hide_border=true&theme=default" alt="sofwanaldirikhaldi"/></a> |
 | ------------- | ------------- |
