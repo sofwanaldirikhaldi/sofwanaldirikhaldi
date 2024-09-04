@@ -1,11 +1,8 @@
 [![Awesome Banner](https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240901%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240901T052820Z&X-Amz-Expires=300&X-Amz-Signature=8b6d9745e565814f0755fc6aced8cafbb04af4136507814d2676c5c9389a688b&X-Amz-SignedHeaders=host&actor_id=156644449&key_id=0&repo_id=588181932)](https://anmol-baranwal.github.io/Cool-GIFs-For-GitHub/#/)
 
-Hi there! 👋 I'm Sofwan
+Hi there! 👋
 
-I'm a Software Engineer with over 6 years of experience
-
-**Languages:** Java, Python, Go, C#, JavaScript / TypeScript, PHP, SQL\
-**Technologies:** .NET Core, Laravel, SQL Server, Power Platform
+I'm Sofwan, a Software Engineer having 6+ years of experience working in various domains like full stack and backend.
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sofwanaldirikhaldi&show_icons=true&hide_border=true&theme=default" alt="sofwanaldirikhaldi"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofwanaldirikhaldi&layout=compact&hide_border=true&theme=default" alt="sofwanaldirikhaldi"/></a> |
 | ------------- | ------------- |
