@@ -1,1 +1,1 @@
-- Hi, I'm Sofwan. Software Developer with 6+ years of experience working in various domains like full stack and backend.
+- Hi, I'm Sofwan. Software Developer with 6+ years of experience.
