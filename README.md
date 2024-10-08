@@ -1,1 +1,1 @@
-- Hi, I'm Sofwan. Software Developer with 6+ years of experience.
+- Hi, I'm Sofwan. Software Engineer with 6+ years of experience.
