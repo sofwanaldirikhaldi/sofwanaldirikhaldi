@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Sofwan.
+# Hi, I'm Sofwan.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sofwanaldirikhaldi)
 
